@@ -37,7 +37,7 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-test</artifactId>
-			<version>4.2.9.RELEASE</version>
+			<version>${org.springframework-version}</version>
 		</dependency>
 		
 		<!-- AspectJ -->
